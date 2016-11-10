@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "telegrafico";
+    src: url(fonts/telegrafico.ttf) format("truetype");
+}
+
 body {
     font-family: "telegrafico","calibri";
     font-size: 20px;
